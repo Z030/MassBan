@@ -1,2 +1,2 @@
 # MassBan
-* To be able to mass ban, you need to have admin permissions.
+* Disclaimer: To be able to mass ban, you need to have admin permissions.
