@@ -17,4 +17,4 @@
 
 ![image](https://user-images.githubusercontent.com/93740943/173683196-897f1298-ef93-46cc-9f38-d26f8b2c230d.png)
 
-*Everyone except the server owner will get banned.
+* Everyone except the server owner will get banned.
