@@ -4,3 +4,7 @@
 1.Enter your account token
 
 ![unknown (4)](https://user-images.githubusercontent.com/93740943/173681966-662186b5-5bad-4f20-a5f1-d10540bf6d53.png)
+
+2.Get the guild ID of the server 
+
+![image](https://user-images.githubusercontent.com/93740943/173682531-54312aff-e018-418c-ab89-5244111bc54d.png)
